@@ -1,5 +1,5 @@
 # vente_achat_en_ligne de matériels informatique
-stack techenique: 
+stack technique: 
 .PHP
 .HTML/CSS
 .bootstrap
